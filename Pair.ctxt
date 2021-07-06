@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=key\ value
+comment0.target=Pair(java.lang.Comparable,\ java.lang.Object)
+comment0.text=\r\n\ Constructor\ for\ the\ Pair\ class\r\n
+comment1.params=
+comment1.target=java.lang.Comparable\ getKey()
+comment1.text=\r\n\ Returns\ the\ key.\r\n
+comment2.params=
+comment2.target=java.lang.Object\ getValue()
+comment2.text=\r\n\ Returns\ the\ value.\r\n
+numComments=3
